@@ -1,5 +1,7 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
+<div style="position: relative; overflow: hidden; padding-top: 56.25%;"><iframe src="https://share.synthesia.io/embeds/videos/10ad59a6-e9ec-44e8-97b2-1f728e3b4b49" loading="lazy" title="Synthesia video player - IA e mercado de trabalho" allowfullscreen allow="encrypted-media; fullscreen;" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0; overflow:hidden;"></iframe></div>
+
 ## 📒 Descrição
 Video realista gerado por IA com cerca de 1 minuto sobre o impacto da IA no mercado de trabalho. 
 
